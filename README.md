@@ -15,7 +15,7 @@
 1 <= intervals.length <= 104
 intervals[i].length == 2
 0 <= starti <= endi <= 104
-
+```
 
 **Пример:**
 
